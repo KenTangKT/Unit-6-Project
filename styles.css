@@ -1,0 +1,63 @@
+body {
+    color: black;
+    text-align: center;
+    font-family: 'Staatliches', sans-serif;
+}
+
+.title {
+    font-size: 50px;
+    background-color: #C00808;
+    font-weight: 800;
+    padding: 0 20px;
+}
+
+.button {
+    display: flex;
+    justify-content: center;
+}
+
+p {
+    font-size: 30px;
+    font-weight: 800;
+}
+
+
+.firstImage {
+    height: 350px;
+    margin: 10px;
+}
+
+.start-button {
+    height: 40px;
+}
+.gotham{
+    display: flex;
+    justify-content: space-around;
+}
+.bruce, .joker{
+    height: 200px;
+  	
+}
+.option-1{
+    display: flex;
+    justify-content: center;
+    display: none;
+    margin-top:250px;
+}
+.bozo, .vengeance {
+    height:200px;
+}
+.crazy, .fight {
+    height: 300px;
+}
+.batman, .insane{
+    display: flex;
+    justify-content:space-around;
+}
+p{
+    display:none;
+}
+.reset{
+    display:none;
+}
+
